@@ -6,6 +6,7 @@ import Logo from "../components/Logo";
 
 function HomePage() {
     const { user } = {};
+    console.log(style);
     return (
         <div className={style.homePage}>
             <Nav />

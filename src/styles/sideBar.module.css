@@ -1,4 +1,5 @@
 .sideBar {
+    background-color: rgba(0, 0, 0, 0.123);
     width: 50rem;
     padding: 3rem 2rem;
     display: flex;
